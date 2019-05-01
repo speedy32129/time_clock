@@ -1,0 +1,10 @@
+<application>
+  <component name="RailsApplicationSettings">
+    <option name="wizardRailsFacetPreconfigureSkipTUnitFiles" value="true" />
+    <option name="wizardRailsFacetTemplates">
+      <array>
+        <option value="" />
+      </array>
+    </option>
+  </component>
+</application>
