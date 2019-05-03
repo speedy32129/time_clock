@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '~/RubymineProjects/plugins/time_clock/db/migrate/001_create_time_clocks.rb [time_clock]'" />
-    <option name="defaultScopeName" value="File '~/RubymineProjects/plugins/time_clock/db/migrate/001_create_time_clocks.rb [time_clock]'" />
-    <option name="SEARCH_SCOPE" value="File '~/RubymineProjects/plugins/time_clock/db/migrate/001_create_time_clocks.rb [time_clock]'" />
+    <option name="customScope" value="File '~/RubymineProjects/plugins/time_clock/config/routes.rb [time_clock]'" />
+    <option name="defaultScopeName" value="File '~/RubymineProjects/plugins/time_clock/config/routes.rb [time_clock]'" />
+    <option name="SEARCH_SCOPE" value="File '~/RubymineProjects/plugins/time_clock/config/routes.rb [time_clock]'" />
   </component>
 </application>
