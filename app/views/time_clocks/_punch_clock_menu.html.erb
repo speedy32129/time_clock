@@ -1,0 +1,14 @@
+|<label>Punch Clock</label>&nbsp;
+<%= link_to '',
+            {:controller => '/time_clocks', :action => 'start'},
+            {:class => 'icon-action icon-stop-action', :title => l(:label_time_clocks_start)}
+%>
+|<%= link_to '',
+            {:controller => '/time_clocks', :action => 'stop'},
+            {:class => 'icon-action icon-stop-action', :title => l(:label_time_clocks_stop)}
+%>
+|<%= link_to '',
+            {:controller => '/time_clocks', :action => 'index'},
+            {:class => 'icon-action icon-index-action', :title => l(:label_time_clocks_check)}
+%>
+|
