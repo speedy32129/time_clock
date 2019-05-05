@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '~/RubymineProjects/plugins/time_clock/init.rb [time_clock]'" />
-    <option name="defaultScopeName" value="File '~/RubymineProjects/plugins/time_clock/init.rb [time_clock]'" />
-    <option name="SEARCH_SCOPE" value="File '~/RubymineProjects/plugins/time_clock/init.rb [time_clock]'" />
+    <option name="customScope" value="Project 'redmine_base_4.0.3'" />
+    <option name="defaultScopeName" value="Project 'redmine_base_4.0.3'" />
+    <option name="SEARCH_SCOPE" value="Project 'redmine_base_4.0.3'" />
   </component>
 </application>
