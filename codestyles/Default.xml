@@ -1,3 +1,8 @@
 <code_scheme name="Default" version="173">
   <option name="LINE_SEPARATOR" value="&#13;&#10;" />
+  <option name="FORMATTER_TAGS_ENABLED" value="true" />
+  <codeStyleSettings language="ruby">
+    <option name="SPACE_WITHIN_BRACES" value="true" />
+    <option name="SPACE_WITHIN_ARRAY_INITIALIZER_BRACES" value="true" />
+  </codeStyleSettings>
 </code_scheme>
