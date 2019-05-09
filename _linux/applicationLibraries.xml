@@ -2972,6 +2972,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.0/gems/rubygems-update-3.0.3/bundler/man" />
       </excluded>
     </library>
+    <library name="bundler (v2.0.1, RVM: ruby-2.6.0 [ServerEnvironment]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.0@ServerEnvironment/gems/bundler-2.0.1/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.0@ServerEnvironment/gems/bundler-2.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.0@ServerEnvironment/gems/bundler-2.0.1/man" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.0@ServerEnvironment/gems/bundler-2.0.1/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.0@ServerEnvironment/gems/bundler-2.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.0@ServerEnvironment/gems/bundler-2.0.1/man" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.0@ServerEnvironment/gems/bundler-2.0.1/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.0@ServerEnvironment/gems/bundler-2.0.1/man" />
+      </excluded>
+    </library>
     <library name="bundler (v2.0.1, RVM: ruby-2.6.0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -10718,6 +10737,31 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.0@redmine_base_4.0.3/gems/mysql2-0.5.2/spec" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.0@redmine_base_4.0.3/gems/mysql2-0.5.2/support" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.0@redmine_base_4.0.3/gems/mysql2-0.5.2/examples" />
+      </excluded>
+    </library>
+    <library name="mysql2 (v0.5.2, RVM: ruby-2.6.0 [ServerEnvironment]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.0@ServerEnvironment/gems/mysql2-0.5.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.0@ServerEnvironment/gems/mysql2-0.5.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.0@ServerEnvironment/gems/mysql2-0.5.2/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.0@ServerEnvironment/gems/mysql2-0.5.2/support" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.0@ServerEnvironment/gems/mysql2-0.5.2/examples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.0@ServerEnvironment/gems/mysql2-0.5.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.0@ServerEnvironment/gems/mysql2-0.5.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.0@ServerEnvironment/gems/mysql2-0.5.2/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.0@ServerEnvironment/gems/mysql2-0.5.2/support" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.0@ServerEnvironment/gems/mysql2-0.5.2/examples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.0@ServerEnvironment/gems/mysql2-0.5.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.0@ServerEnvironment/gems/mysql2-0.5.2/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.0@ServerEnvironment/gems/mysql2-0.5.2/support" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.0@ServerEnvironment/gems/mysql2-0.5.2/examples" />
       </excluded>
     </library>
     <library name="mysql2 (v0.5.2, RVM: ruby-2.6.0) [gem]" type="rubylib">
