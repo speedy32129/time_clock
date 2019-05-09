@@ -2257,6 +2257,28 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.0/gems/bootsnap-1.4.4/.github" />
       </excluded>
     </library>
+    <library name="bootstrap (v4.0.0, RVM: ruby-2.6.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.0/gems/bootstrap-4.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.0/gems/bootstrap-4.0.0/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.0/gems/bootstrap-4.0.0/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.0/gems/bootstrap-4.0.0/assets" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.0/gems/bootstrap-4.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.0/gems/bootstrap-4.0.0/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.0/gems/bootstrap-4.0.0/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.0/gems/bootstrap-4.0.0/assets" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.0/gems/bootstrap-4.0.0/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.0/gems/bootstrap-4.0.0/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.0/gems/bootstrap-4.0.0/assets" />
+      </excluded>
+    </library>
     <library name="bourbon (v5.1.0, RVM: ruby-2.6.0 [ServerEnvironment]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -9153,6 +9175,21 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.0/gems/libv8-3.16.14.19-x86_64-linux/vendor" />
       </SOURCES>
     </library>
+    <library name="libv8 (v7.3.492.27.1, RVM: ruby-2.6.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.0/gems/libv8-7.3.492.27.1-x86_64-linux/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.0/gems/libv8-7.3.492.27.1-x86_64-linux/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.0/gems/libv8-7.3.492.27.1-x86_64-linux/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.0/gems/libv8-7.3.492.27.1-x86_64-linux/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.0/gems/libv8-7.3.492.27.1-x86_64-linux/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.0/gems/libv8-7.3.492.27.1-x86_64-linux/vendor" />
+      </SOURCES>
+    </library>
     <library name="listen (v3.1.5, RVM: ruby-2.3.8 [stopwatch]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -10779,6 +10816,24 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.0/gems/mini_portile2-2.4.0/test" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.0/gems/mini_portile2-2.4.0/concourse" />
+      </excluded>
+    </library>
+    <library name="mini_racer (v0.2.5, RVM: ruby-2.6.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.0/gems/mini_racer-0.2.5/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.0/gems/mini_racer-0.2.5/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.0/gems/mini_racer-0.2.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.0/gems/mini_racer-0.2.5/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.0/gems/mini_racer-0.2.5/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.0/gems/mini_racer-0.2.5/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.0/gems/mini_racer-0.2.5/bin" />
       </excluded>
     </library>
     <library name="minitest (v5.10.1, RVM: ruby-2.4.5 [global]) [gem]" type="rubylib">
@@ -13422,6 +13477,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.0/gems/parser-2.6.3.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.0/gems/parser-2.6.3.0/doc" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.0/gems/parser-2.6.3.0/test" />
+      </excluded>
+    </library>
+    <library name="popper_js (v1.14.5, RVM: ruby-2.6.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.0/gems/popper_js-1.14.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.0/gems/popper_js-1.14.5/assets" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.0/gems/popper_js-1.14.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.0/gems/popper_js-1.14.5/assets" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.0/gems/popper_js-1.14.5/assets" />
       </excluded>
     </library>
     <library name="power_assert (v0.2.6, RVM: ruby-2.3.8 [global]) [gem]" type="rubylib">
