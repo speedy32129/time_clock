@@ -4542,13 +4542,11 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/debase/0.2.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.8/gems/debase-0.2.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.8/gems/debase-0.2.2/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.8/gems/debase-0.2.2/test" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/debase/0.2.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.8/gems/debase-0.2.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.8/gems/debase-0.2.2/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.8/gems/debase-0.2.2/test" />
@@ -6356,13 +6354,11 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/ffi/1.10.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.8/gems/ffi-1.10.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.8/gems/ffi-1.10.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.8/gems/ffi-1.10.0/samples" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/ffi/1.10.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.8/gems/ffi-1.10.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.8/gems/ffi-1.10.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.8/gems/ffi-1.10.0/samples" />
@@ -7755,12 +7751,10 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/jaro_winkler/1.5.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.8/gems/jaro_winkler-1.5.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.8/gems/jaro_winkler-1.5.2/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/jaro_winkler/1.5.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.8/gems/jaro_winkler-1.5.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.8/gems/jaro_winkler-1.5.2/lib" />
       </SOURCES>
@@ -10939,7 +10933,6 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/mysql2/0.4.10" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.8/gems/mysql2-0.4.10/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.8/gems/mysql2-0.4.10/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.8/gems/mysql2-0.4.10/spec" />
@@ -10947,7 +10940,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.8/gems/mysql2-0.4.10/examples" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/mysql2/0.4.10" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.8/gems/mysql2-0.4.10/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.8/gems/mysql2-0.4.10/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.8/gems/mysql2-0.4.10/spec" />
@@ -11867,7 +11859,6 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/nokogiri/1.8.5" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.8/gems/nokogiri-1.8.5/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.8/gems/nokogiri-1.8.5/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.8/gems/nokogiri-1.8.5/lib" />
@@ -11877,7 +11868,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.8/gems/nokogiri-1.8.5/suppressions" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/nokogiri/1.8.5" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.8/gems/nokogiri-1.8.5/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.8/gems/nokogiri-1.8.5/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.8/gems/nokogiri-1.8.5/lib" />
@@ -16951,14 +16941,12 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/redcarpet/3.4.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.8/gems/redcarpet-3.4.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.8/gems/redcarpet-3.4.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.8/gems/redcarpet-3.4.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.8/gems/redcarpet-3.4.0/test" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/redcarpet/3.4.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.8/gems/redcarpet-3.4.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.8/gems/redcarpet-3.4.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.8/gems/redcarpet-3.4.0/lib" />
@@ -17800,7 +17788,6 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/rmagick/3.1.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.8/gems/rmagick-3.1.0/doc" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.8/gems/rmagick-3.1.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.8/gems/rmagick-3.1.0/lib" />
@@ -17811,7 +17798,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.8/gems/rmagick-3.1.0/deprecated" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/rmagick/3.1.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.8/gems/rmagick-3.1.0/doc" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.8/gems/rmagick-3.1.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.8/gems/rmagick-3.1.0/lib" />
