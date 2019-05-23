@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../plugins/time_clock/app/controllers/time_clock_status_controller.rb [redmine_3.4.6_plugins]'" />
-    <option name="defaultScopeName" value="File '.../plugins/time_clock/app/controllers/time_clock_status_controller.rb [redmine_3.4.6_plugins]'" />
+    <option name="customScope" value="File '.../plugins/time_clock/app/views/time_clock_status/index.html.erb [redmine_3.4.6_plugins]'" />
+    <option name="defaultScopeName" value="File '.../plugins/time_clock/app/views/time_clock_status/index.html.erb [redmine_3.4.6_plugins]'" />
     <option name="wholeWordsOnly" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="File '.../plugins/time_clock/app/controllers/time_clock_status_controller.rb [redmine_3.4.6_plugins]'" />
+    <option name="SEARCH_SCOPE" value="File '.../plugins/time_clock/app/views/time_clock_status/index.html.erb [redmine_3.4.6_plugins]'" />
   </component>
 </application>
