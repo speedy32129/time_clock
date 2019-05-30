@@ -10,8 +10,12 @@
           <option name="url" value="https://github.com/speedy32129/time_clock.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/speedy32129/rails-composer.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/RubymineProjects/plugins" />
+    <option name="cloneParentDir" value="$USER_HOME$/RubymineProjects" />
   </component>
 </application>
